@@ -1,0 +1,8 @@
+1.
+Pega a pasta pedroni e coloque na pasta htdocs do seu xammp.
+2.
+Acesse seu localhost e crie um banco de dados com o nome "pedroni" sem aspas.
+3.
+Em seguida selecione o banco de dados criado e vá em importar e selecione o arquivo "BancoDeDados" e aperter em executar para ser criado suas tabelas no código
+4.
+Agora você acessa localhost/pedroni e testa sua aplicação !!!!

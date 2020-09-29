@@ -1,0 +1,23 @@
+Para criar o sistema de cadastro e login eu utilizei o material desse site:
+
+https://www.devmedia.com.br/criando-um-sistema-de-cadastro-e-login-com-php-e-mysql/37213
+
+Ele mostra o passo a passo da criação do sistema, porém preste atenção que ele não mostra nada sobre o estilo é apenas o sistema puro sem estilo.
+
+Se tratando do sistema você utiliza a documentação do bootstrap para estilizar o seu sistema:
+https://getbootstrap.com.br/docs/4.1/getting-started/introduction/
+
+è o mesmo material utilizado nas aulas
+.........................................................................
+Para o sistema de cadastro de livros eu utilizei um projeto antigo meu da livraria. portanto não tenho link com explicações sobre ele....
+mas se possivel você entender vai ser fácil sua explicação
+
+link da biblioteca original
+https://github.com/jardelhokage/CRUD_PHP
+..........................................................................
+Abaixo você tem acesso ao sistema de cadastro e login com aba para cadastro de livro. Desenvolvido no dia 29/09/2020 como projeto pedido no ifpa.
+Eu Jardel castro. estou disponibilizando esse código html,php,css,js como objeto de estudo dos alunos e demais pessoas da internet
+
+
+Nesse link está incluido o código sql do banco de dados:
+https://github.com/jardelhokage/login-cadastro-livraria
